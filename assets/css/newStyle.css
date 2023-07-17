@@ -18,3 +18,15 @@
 a {
     color: #00A0B1 !important;
 }
+
+@media (max-width: 992px){
+    .departments .nav-link.active {
+        color: #fff !important;
+    }
+}
+
+.appointment-btn {
+    background-color: #00A0B1 !important;
+    color: #fff !important;
+    border: none !important;
+}
