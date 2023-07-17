@@ -1,0 +1,20 @@
+.cor-logo-secundaria {
+    color: #00A0B1;
+}
+
+.cor-logo-tercearia {
+    color: #E88A10;
+}
+
+.cor-logo-primaria {
+    color: #006570;
+}
+
+.navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover>a {
+    color: #00A0B1;
+    border-color: #006570;
+}
+
+a {
+    color: #00A0B1 !important;
+}
