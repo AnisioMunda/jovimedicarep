@@ -30,3 +30,18 @@ a {
     color: #fff !important;
     border: none !important;
 }
+
+.accordion-button {
+    color: #fff;
+    background-color: #00A0B1;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #00A0B1;
+    color: #fff;
+}
+
+.accordion-button:focus {
+    border-color: #00A0B1;
+    box-shadow: none;
+}
