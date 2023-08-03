@@ -45,3 +45,15 @@ a {
     border-color: #00A0B1;
     box-shadow: none;
 }
+
+.text-see-more {
+    font-size: 18px;
+    background-color: #006570;
+    padding: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.cardbox {
+    box-shadow: 2px 2px 4px #006570;
+}
